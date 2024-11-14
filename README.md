@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Ganasekhar-gif
-- 👀 I’m interested in data science, artificial intelligence 
-- 🌱 I’m currently learning data science course
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Ganasekhar-gif/Ganasekhar-gif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Ganasekhar Kalla.
+👀 I’m passionate about data science and artificial intelligence.
+🌱 Currently, I’m deepening my knowledge with a comprehensive Data Science course, honing skills in machine learning, data analysis, and visualization.
+💞️ I’m open to collaborations on data-driven projects, particularly those involving machine learning or predictive analytics.
+📫 You can reach me via ganasekharkalla@gmail.com.
+😄 Pronouns: he/him
+⚡ Fun fact: I enjoy exploring the intersection of technology and healthcare to discover ways data can enhance patient outcomes.
