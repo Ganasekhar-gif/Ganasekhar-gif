@@ -1,19 +1,17 @@
-### 👋 Hello, I'm Ganasekhar Kalla
+<h1 align="center">Hi 👋, I'm Ganasekhar Kalla</h1>
 
-🎯 A passionate **Data Science and Artificial Intelligence** enthusiast, driven by the power of data to solve real-world problems.
----
-
-💡 **About Me**
-- 📚 Currently deepening my expertise through a comprehensive **Data Science course**, focusing on:
-  - Machine Learning & Predictive Modeling  
-  - Data Analysis & Visualization  
-  - Statistical Techniques & Big Data Tools  
-- 🤝 Open to collaborations on **data-driven projects** — especially in **ML, predictive analytics, and healthcare AI**.
-- 🌐 Exploring the intersection of **technology and healthcare**, aiming to improve patient outcomes through data.
+<p align="center">
+  🚀 Passionate about <strong>Data Science</strong> & <strong>Artificial Intelligence</strong><br>
+  🎓 Currently diving deep into <strong>Machine Learning</strong>, <strong>Data Analysis</strong>, and <strong>Visualization</strong><br>
+  🤝 Open to collaborations on <strong>ML & Predictive Analytics</strong> projects<br>
+  ✉️ Reach me at: <a href="mailto:ganasekharkalla@gmail.com">ganasekharkalla@gmail.com</a><br>
+  😄 Pronouns: <strong>he/him</strong><br>
+  ⚡ Fun Fact: I enjoy exploring how tech can transform <strong>healthcare outcomes</strong>
+</p>
 
 ---
 
-🛠️ **Tech Stack & Tools**
+## 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=black)
@@ -30,18 +28,38 @@
 ![NLP](https://img.shields.io/badge/-NLP-8E44AD?style=flat)
 ![LLMs](https://img.shields.io/badge/-Large%20Language%20Models-0E76A8?style=flat)
 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GanasekharKalla&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GanasekharKalla&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-📫 **Connect With Me**
-- 📧 email: [ganasekharkalla@gmail.com](mailto:ganasekharkalla@gmail.com)
-- 🔗 Linkedin: https://www.linkedin.com/in/ganasekhark
-- 😄 Pronouns: he/him
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GanasekharKalla&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
-⚡ **Fun Fact**  
-I love exploring how **data science and healthcare** can work together to create smarter systems that support better lives.
+## 🗓️ Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GanasekharKalla&theme=dracula" alt="Contribution Graph" />
+</p>
 
 ---
-🚀 *Let’s connect, collaborate, and build something impactful together!*
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ganasekharkalla@gmail.com)
+
+---
+
+![Visitors](https://komarev.com/ghpvc/?username=GanasekharKalla&color=brightgreen)
