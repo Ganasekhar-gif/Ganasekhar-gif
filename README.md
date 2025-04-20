@@ -1,3 +1,11 @@
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d9015404-380e-40a4-9232-9d1a8b48107f" alt="Ganasekhar Kalla Banner" />
+</p>
+
+---
+
 <h1 align="center">Hi 👋, I'm Ganasekhar Kalla</h1>
 
 <p align="center">
@@ -8,11 +16,6 @@
   😄 Pronouns: <strong>he/him</strong><br>
   ⚡ Fun Fact: I enjoy exploring how tech can transform <strong>healthcare outcomes</strong>
 </p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d9015404-380e-40a4-9232-9d1a8b48107f" alt="Ganasekhar Kalla Banner" />
-</p>
-
 
 ---
 
