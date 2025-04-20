@@ -33,8 +33,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GanasekharKalla&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GanasekharKalla&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganasekhar-gif&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganasekhar-gif&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GanasekharKalla&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganasekhar-gif&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ## 🗓️ Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GanasekharKalla&theme=dracula" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganasekhar-gif&theme=dracula" alt="Contribution Graph" />
 </p>
 
 ---
@@ -62,4 +62,4 @@
 
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=GanasekharKalla&color=brightgreen)
+![Visitors](https://komarev.com/ghpvc/?username=Ganasekhar-gif&color=brightgreen)
