@@ -1,7 +1,27 @@
-👋 Hi, I’m Ganasekhar Kalla.                                                                                                                 
-👀 I’m passionate about data science and artificial intelligence.                                                                        
-🌱 Currently, I’m deepening my knowledge with a comprehensive Data Science course, honing skills in machine learning, data analysis, and visualization.                           
-💞️ I’m open to collaborations on data-driven projects, particularly those involving machine learning or predictive analytics.           
-📫 You can reach me via ganasekharkalla@gmail.com.                                                                                                    
-😄 Pronouns: he/him                                                                             
-⚡ Fun fact: I enjoy exploring the intersection of technology and healthcare to discover ways data can enhance patient outcomes.
+### 👋 Hello, I'm Ganasekhar Kalla          
+
+🎯 A passionate Data Science and Artificial Intelligence enthusiast, driven by the power of data to solve real-world problems.            
+---
+
+💡 **About Me**  
+- 🎓 Currently pursuing an in-depth **Data Science course**, sharpening my skills in:                       
+  - Machine Learning & Predictive Modeling                    
+  - Data Analysis & Visualization                                  
+  - Statistical Inference & Big Data Technologies                                              
+- 🤝 Always open to **collaborations** on impactful, data-driven projects — especially those in **ML, healthcare analytics**, or **AI for social good**.                            
+- ⚙️ Proficient in **Python**, **SQL**, **Pandas**, **NumPy**, **Scikit-learn**, **Spark**, and **Matplotlib**.                                
+
+---
+
+📫 **Reach Out**                                         
+- 📧 Email: [ganasekharkalla@gmail.com](mailto:ganasekharkalla@gmail.com)                                        
+- 💼 LinkedIn: https://www.linkedin.com/in/ganasekhark                                                                                                       
+- 🧠 Pronouns: he/him                                                                        
+
+---
+
+✨ **Fun Fact**                                                                      
+I love exploring how **technology and healthcare** intersect — finding ways that **data science can improve patient outcomes** and revolutionize care systems.                                     
+
+---
+🚀 *Let’s connect, collaborate, and create something impactful together!*                                                                                         
