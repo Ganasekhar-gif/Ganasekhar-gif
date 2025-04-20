@@ -29,8 +29,8 @@
 ---
 
 📫 **Connect With Me**
-- 📧 [ganasekharkalla@gmail.com](mailto:ganasekharkalla@gmail.com)
-- 🔗 _[LinkedIn - Add your link here]_  
+- 📧 email: [ganasekharkalla@gmail.com](mailto:ganasekharkalla@gmail.com)
+- 🔗 Linkedin: https://www.linkedin.com/in/ganasekhark
 - 😄 Pronouns: he/him
 
 ---
