@@ -1,8 +1,37 @@
 ---
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d9015404-380e-40a4-9232-9d1a8b48107f" alt="Ganasekhar Kalla Banner" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to My Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: white;
+            text-align: center;
+            padding-top: 20%;
+        }
+        .greeting {
+            font-size: 2em;
+            animation: fadeIn 3s ease-out;
+        }
+        @keyframes fadeIn {
+            0% { opacity: 0; }
+            100% { opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+    <div class="greeting">
+        <p>Hello 👋, I'm Ganasekhar Kalla, a passionate <strong>Data Scientist</strong> and <strong>AI Enthusiast</strong>.</p>
+        <p>Welcome to my profile! Here, you'll find my latest projects, collaborations, and research on <strong>AI Agents</strong>, <strong>Machine Learning</strong>, and <strong>Data Science</strong>.</p>
+    </div>
+</body>
+</html>
+
 
 ---
 
