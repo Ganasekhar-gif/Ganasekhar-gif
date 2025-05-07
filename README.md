@@ -1,6 +1,6 @@
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+profile!;I'm+Excited+to+build+AI-powered+solutions+to+make+an+impact+%F0%9F%A7%A0%F0%9F%9A%80;Turning+data+into+decisions+that+drive+change+%F0%9F%93%8A%E2%9A%A1;Where+logic+meets+creativity+to+solve+real-world+problems+%F0%9F%92%A1%F0%9F%A7%A0;Smarter+data%2C+sharper+insights%E2%80%94let%E2%80%99s+dive+in+%F0%9F%93%88;Code.+Learn.+Solve.+Repeat+%F0%9F%94%81;Check+out+my+projects+%26+collaborations%E2%80%94let%E2%80%99s+innovate!+%F0%9F%9A%80;Excited+to+collaborate+with+Like-Minded+Innovators+--Let%E2%80%99s+connect+and+grow+together+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+profile!;I'm+Excited+to+build+AI-powered+solutions+to+make+an+impact+%F0%9F%A7%A0%F0%9F%9A%80;Turning+data+into+decisions+that+drive+change+%F0%9F%93%8A%E2%9A%A1;Where+logic+meets+creativity+to+solve+real-world+problems+%F0%9F%92%A1%F0%9F%A7%A0;Smarter+data%2C+sharper+insights%E2%80%94let%E2%80%99s+dive+in+%F0%9F%93%88;Code.+Learn.+Solve.+Repeat+%F0%9F%94%81;Check+out+my+projects+%26+collaborations%E2%80%94let%E2%80%99s+innovate!+%F0%9F%9A%80;Excited+to+collaborate+with+Like-Minded+Innovators+--Let%E2%80%99s+connect+and+grow+together+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 ---
 
