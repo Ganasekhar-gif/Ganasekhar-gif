@@ -1,8 +1,6 @@
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&height=150&lines=Hi+👋%2C+I'm+Ganasekhar+Kalla;Data+Scientist+%7C+AI+Agent+Developer+%7C+MCP+Explorer;Turning+ideas+into+intelligent+solutions+🚀" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+welcome+to+my+profile+%F0%9F%91%8B;Building+AI-powered+solutions+%F0%9F%A7%A0%F0%9F%9A%80;Turning+data+into+decisions+%F0%9F%93%8A%E2%9A%A1;Where+logic+meets+creativity+%F0%9F%92%A1%2B%F0%9F%A7%A0;Smarter+data.+Sharper+insights+%F0%9F%93%88;Code.+Learn.+Solve.+Repeat+%F0%9F%94%81)](https://git.io/typing-svg)
 
 ---
 
