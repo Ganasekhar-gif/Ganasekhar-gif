@@ -9,12 +9,13 @@
 <h1 align="center">Hi 👋, I'm Ganasekhar Kalla</h1>
 
 <p align="center">
-  🚀 Passionate about <strong>Data Science</strong> & <strong>Artificial Intelligence</strong><br>
-  🎓 Currently diving deep into <strong>Machine Learning</strong>, <strong>Data Analysis</strong>, and <strong>Visualization</strong><br>
-  🤝 Open to collaborations on <strong>ML & Predictive Analytics</strong> projects<br>
-  ✉️ Reach me at: <a href="mailto:ganasekharkalla@gmail.com">ganasekharkalla@gmail.com</a><br>
+  🚀 I'm a curious mind at the intersection of <strong>Data Science</strong>, <strong>AI Agents</strong>, and <strong>LLM-Oriented Architectures</strong><br>
+  🧠 Currently exploring how <strong>Model Context Protocol (MCP)</strong> and <strong>context-aware systems</strong> shape intelligent workflows<br>
+  🤖 Building projects that combine <strong>Machine Learning</strong> with <strong>autonomous agents</strong> and <strong>real-time decision pipelines</strong><br>
+  🤝 Open to collaborations that push the boundaries of <strong>predictive analytics</strong> and <strong>agent-driven automation</strong><br>
+  📬 Say hi: <a href="mailto:ganasekharkalla@gmail.com">ganasekharkalla@gmail.com</a><br>
   😄 Pronouns: <strong>he/him</strong><br>
-  ⚡ Fun Fact: I enjoy exploring how tech can transform <strong>healthcare outcomes</strong>
+  ⚡ Fun Fact: I’m obsessed with how agents can think, reason, and act — especially when they help solve real-world problems in <strong>healthcare</strong> and <strong>data infrastructure</strong>
 </p>
 
 ---
