@@ -1,17 +1,8 @@
 ---
 
-<!-- Greeting Section -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Y2YjEwOTgwZmQ3MzEyNzllNzcwNzUyYTgxZTZhZjQ1ZTViYTI4ZiZldjA9OnJwZGg.gif" alt="Welcome Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&height=150&lines=Hi+👋%2C+I'm+Ganasekhar+Kalla;Data+Scientist+%7C+AI+Agent+Developer+%7C+MCP+Explorer;Turning+ideas+into+intelligent+solutions+🚀" alt="Typing SVG" />
 </p>
-
-## 👋 Hello! I'm Ganasekhar Kalla
-I’m a passionate **Data Scientist**, **AI Enthusiast**, and creator of intelligent systems.  
-Currently diving into **Model Context Protocol (MCP)** and **autonomous AI agents** that are transforming industries like **healthcare** and **finance**. 
-
-Feel free to explore my projects below and reach out for collaborations on **predictive analytics**, **ML pipelines**, and **AI research**!  
-📬 [Email me](mailto:ganasekharkalla@gmail.com) for project inquiries!
-
 
 ---
 
