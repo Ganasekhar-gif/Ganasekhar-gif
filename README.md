@@ -69,6 +69,4 @@
 
 ---
 
-<p align="center">
-  <em>Let's build impactful, data-driven solutions together!</em> 🚀
-</p>
+
