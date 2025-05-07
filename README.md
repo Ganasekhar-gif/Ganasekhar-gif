@@ -1,36 +1,16 @@
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to My Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #121212;
-            color: white;
-            text-align: center;
-            padding-top: 20%;
-        }
-        .greeting {
-            font-size: 2em;
-            animation: fadeIn 3s ease-out;
-        }
-        @keyframes fadeIn {
-            0% { opacity: 0; }
-            100% { opacity: 1; }
-        }
-    </style>
-</head>
-<body>
-    <div class="greeting">
-        <p>Hello 👋, I'm Ganasekhar Kalla, a passionate <strong>Data Scientist</strong> and <strong>AI Enthusiast</strong>.</p>
-        <p>Welcome to my profile! Here, you'll find my latest projects, collaborations, and research on <strong>AI Agents</strong>, <strong>Machine Learning</strong>, and <strong>Data Science</strong>.</p>
-    </div>
-</body>
-</html>
+<!-- Greeting Section -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Y2YjEwOTgwZmQ3MzEyNzllNzcwNzUyYTgxZTZhZjQ1ZTViYTI4ZiZldjA9OnJwZGg.gif" alt="Welcome Animation" />
+</p>
+
+## 👋 Hello! I'm Ganasekhar Kalla
+I’m a passionate **Data Scientist**, **AI Enthusiast**, and creator of intelligent systems.  
+Currently diving into **Model Context Protocol (MCP)** and **autonomous AI agents** that are transforming industries like **healthcare** and **finance**. 
+
+Feel free to explore my projects below and reach out for collaborations on **predictive analytics**, **ML pipelines**, and **AI research**!  
+📬 [Email me](mailto:ganasekharkalla@gmail.com) for project inquiries!
 
 
 ---
