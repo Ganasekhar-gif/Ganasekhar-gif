@@ -9,8 +9,10 @@ I'm a pre-final year BTech (ECE) student at NIT Nagaland, driven by a deep curio
 
 ---
 
+## 🤝 Let's Connect and Collaborate!
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="[Linkedin](https://www.linkedin.com/in/ganasekhark)" target="_blank">
     <img src="https://img.shields.io/badge/Let's Connect-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:ganasekharkalla@gmail.com">
