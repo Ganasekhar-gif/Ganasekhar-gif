@@ -13,12 +13,13 @@ I'm a pre-final year BTech (ECE) student at NIT Nagaland, driven by a deep curio
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ganasekhark" target="_blank">
-    <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Ganasekhar_Kalla/" target="_blank">
     <img src="https://img.shields.io/badge/Leetcode-FFA116?style=flat&logo=leetcode&logoColor=white" />
   </a>
 </p>
+
 
 
 ---
@@ -59,7 +60,50 @@ I'm a pre-final year BTech (ECE) student at NIT Nagaland, driven by a deep curio
 
 🛠️ Things I use on daily basis:
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> </p>
+<p align="left">
+  <!-- First Row with Labels -->
+  <a href="https://reactivex.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-AI%20Agents-1A1A1A?style=flat&logo=reactivex&logoColor=white" />
+  </a>
+  <a href="https://mcp-protocol.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Model%20Context%20Protocol-0A66C2?style=flat&logo=protocolsio&logoColor=white" />
+  </a>
+  <a href="https://langchain.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-LangChain-3B3B98?style=flat&logo=chainlink&logoColor=white" />
+  </a>
+  <a href="https://mlflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-MLOps-0A0A0A?style=flat&logo=mlflow&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  <!-- Second Row with Tool Logos -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://spark.apache.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  </a>
+</p>
+
 
 ---
 
