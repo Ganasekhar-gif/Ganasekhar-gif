@@ -9,16 +9,17 @@ I'm a pre-final year BTech (ECE) student at NIT Nagaland, driven by a deep curio
 
 ---
 
-## 🤝 Let's Connect and Collaborate!
+## 📫 Checkout My:
 
 <p align="left">
-  <a href="[Linkedin](https://www.linkedin.com/in/ganasekhark)" target="_blank">
-    <img src="https://img.shields.io/badge/Let's Connect-blue?style=flat&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/ganasekhark" target="_blank">
+    <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ganasekharkalla@gmail.com">
-    <img src="https://img.shields.io/badge/Email Me-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="https://leetcode.com/u/Ganasekhar_Kalla/" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-FFA116?style=flat&logo=leetcode&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
@@ -34,7 +35,7 @@ I'm a pre-final year BTech (ECE) student at NIT Nagaland, driven by a deep curio
 - 🧠 Currently exploring how Model Context Protocol (MCP) and context-aware systems shape intelligent workflows
 - 🤖 I build projects that blend Machine Learning, autonomous agents, and real-time decision pipelines
 - 🤝 Always up for collaborations that push the edge of predictive analytics and agent-driven automation
-- 😄 Pronouns: he/him
+- 📫 How to reach me [ganasekharkalla@gmail.com](ganasekharkalla@gmail.com)
 - ⚡ Fun Fact: I get oddly excited when agents start behaving like tiny problem-solvers — especially if they’re streamlining healthcare or fixing broken data workflows at 2 AM.
 
 ---
