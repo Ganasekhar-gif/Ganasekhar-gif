@@ -18,8 +18,10 @@ I'm a pre-final year BTech (ECE) student at NIT Nagaland, driven by a deep curio
   <a href="https://leetcode.com/u/Ganasekhar_Kalla/" target="_blank">
     <img src="https://img.shields.io/badge/Leetcode-FFA116?style=flat&logo=leetcode&logoColor=white" />
   </a>
+  <a href="https://my-portfolio-h3ik8zfq7-ganasekhars-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
 </p>
-
 
 
 ---
