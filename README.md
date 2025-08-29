@@ -165,14 +165,6 @@ I'm a pre-final year BTech (ECE) student at NIT Nagaland, driven by a deep curio
 
 ---
 
-<h2 align="center">📈 GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ganasekhar-gif&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 <h2 align="center">🗓️ Contribution Graph</h2>
 
 <p align="center">
