@@ -168,7 +168,7 @@ I'm a pre-final year BTech (ECE) student at NIT Nagaland, driven by a deep curio
 <h2 align="center">📈 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganasekhar-gif&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ganasekhar-gif&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
