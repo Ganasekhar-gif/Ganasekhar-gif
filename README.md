@@ -5,7 +5,7 @@
 
 ## Glad to see you here! 👋
 
-I'm a pre-final year BTech (ECE) student at NIT Nagaland, driven by a deep curiosity for emerging technologies. My fascination with computers began back in school when I first encountered a basic programming class, where I was amazed by how lines of code could bring ideas to life. Today, I’m diving into AI Agents, LLM integrations, and Data Science, and I’m excited to explore new opportunities to grow in the Data Science field.
+I'm a final year BTech (ECE) student at NIT Nagaland, driven by a deep curiosity for emerging technologies. My fascination with computers began back in school when I first encountered a basic programming class, where I was amazed by how lines of code could bring ideas to life. Today, I’m diving into AI Agents, LLM integrations, and Data Science, and I’m excited to explore new opportunities to grow in the Data Science field.
 
 ---
 
