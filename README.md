@@ -160,9 +160,10 @@ I'm a final year BTech (ECE) student at NIT Nagaland, driven by a deep curiosity
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganasekhar-gif&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganasekhar-gif&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganasekhar-gif&show_icons=true&theme=radical&cache_seconds=7200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganasekhar-gif&layout=compact&theme=radical&cache_seconds=7200" alt="Top Languages" />
 </p>
+
 
 ---
 
