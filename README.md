@@ -54,10 +54,10 @@ I'm a final year BTech (ECE) student at NIT Nagaland, driven by a deep curiosity
 
 🧠 🌍 Open Source & Community
 
--MNE-Python: Improved documentation and tutorials to make onboarding smoother for new users.
--Braindecode: Added search + filtering features to help users navigate deep learning model examples.
--Scikit-learn: Contributed cleanup to imports and docs, helping maintain consistency across modules.
--I enjoy contributing small improvements that make tools easier for others — especially in AI, data workflows, and neuroscience tooling.
+- MNE-Python: Improved documentation and tutorials to make onboarding smoother for new users.                                                                              
+- Braindecode: Added search + filtering features to help users navigate deep learning model examples.                                                             
+- Scikit-learn: Contributed cleanup to imports and docs, helping maintain consistency across modules.                                                                       
+- I enjoy contributing small improvements that make tools easier for others — especially in AI, data workflows, and neuroscience tooling.                                    
 
 ---
 
