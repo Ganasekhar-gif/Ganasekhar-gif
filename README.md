@@ -54,9 +54,10 @@ I'm a final year BTech (ECE) student at NIT Nagaland, driven by a deep curiosity
 
 🧠 🌍 Open Source & Community
 
-- Contributing to open-source tools like **BrainDecode** and **MNE-Python**, improving neuroscience/data science workflows  
-- Building and sharing advanced solutions around **context-aware agents**, **MLOps systems**, and **LLM tooling**
-- Passionate about reproducible pipelines, interactive tutorials, and accessible tooling for real-world problems
+-MNE-Python: Improved documentation and tutorials to make onboarding smoother for new users.
+-Braindecode: Added search + filtering features to help users navigate deep learning model examples.
+-Scikit-learn: Contributed cleanup to imports and docs, helping maintain consistency across modules.
+-I enjoy contributing small improvements that make tools easier for others — especially in AI, data workflows, and neuroscience tooling.
 
 ---
 
@@ -143,14 +144,14 @@ I'm a final year BTech (ECE) student at NIT Nagaland, driven by a deep curiosity
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-- 🤖 **MCP-EdTech-Agent** – Built with Groq API + LLaMA + Tool Schemas + Installation-Aware Context Agents  
-  <br>Context-aware educational assistant that dynamically reasons with 3 integrated APIs and custom tools
-
-- 🏥 **Multi-Disease Detection System** – VGG16-based real-time image classifier for medical diagnosis  
-  <br>Includes multi-model fusion for disease prediction across varied conditions
-
-- 🔍 **Real-Time Fraud Detection System** – Kafka + Spark Streaming + MongoDB + FastAPI + Prometheus/Grafana  
+- 🤖 **Real-Time Fraud Detection System** – A streaming fraud detection pipeline powered by Kafka, FastAPI, Docker, Prometheus/Grafana and MongoDB. 
   <br>End-to-end detection pipeline with real-time analytics and containerized microservices
+
+- 🏥 **Multi-Agent Data Analytics System** – A system where multiple agents handle SQL generation, preprocessing, and visual analysis.
+  <br>It uses DuckDB + FAISS retrieval and a fine-tuned LLaMA agent for explanations — reducing manual analysis time.
+
+- 🔍 **Hybrid Movie Recommendation System** – A recommender that mixes collaborative filtering with BERT-based semantic search to improve movie suggestions.
+  <br>Served through FastAPI so recommendations work in real time.
 
 👉 *Explore more in my pinned repositories above or reach out for code walkthroughs!*
 
@@ -160,7 +161,7 @@ I'm a final year BTech (ECE) student at NIT Nagaland, driven by a deep curiosity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ganasekhar-gif&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganasekhar-gif&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganasekhark-gif&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
